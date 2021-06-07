@@ -6,6 +6,20 @@ body{
     margin: 0;
 }
 
+h1{
+    font-size: 48px;
+    color: #2E7AD3;
+}
+
+h2{
+    font-size: 32px;
+    color: #104C90;
+}
+
+p{
+font-size: 16px;
+}
+
 header{
     margin-left: auto;
     margin-right: auto;
@@ -22,6 +36,21 @@ header{
     padding: 20px;
 }
 
+.img{
+    margin-bottom: 25px;
+}
+
 img{
     width: 500px;
+}
+
+.text .firstp{
+    padding-bottom: 9px;
+}
+
+a{
+    color: #ff8000;
+}
+a:hover, a:focus{
+    color: aqua;
 }
